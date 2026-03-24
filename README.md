@@ -7,6 +7,9 @@ A content-based music recommendation system built with **PySpark MLlib**, **scik
 - **scikit-learn fallback**: Builds 100-dim SVD vectors for all 57k songs so every song in the dataset gets a live recommendation if it's not in the pre-computed matrix.
 - **Streamlit frontend**: Serves recommendations instantly from the pre-computed matrix (✨) or computes them live on-the-fly (⚡).
 
+## Access it here: 
+[VibeMatch App](https://vibematch-ou57gfxgtki2kuwyibymjt.streamlit.app/)
+
 ## Setup
 
 ### 1. Dataset
